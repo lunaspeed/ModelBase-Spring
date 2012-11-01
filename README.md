@@ -1,0 +1,1 @@
+A Spring implementation of ModelBase.
